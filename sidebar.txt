@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msg:home|Door43 (msg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msg|d43-msg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msg/archive/master.zip|d43-msg.zip]]
+
+**Recent Changes**
+{{changes>ns = msg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msg|Ethnologue data]]
+
